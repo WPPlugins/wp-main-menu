@@ -1,0 +1,69 @@
+#wp_main_menu {
+	height:35px;
+	float:none;
+	text-align:left;
+	font-size:15px;
+	font-family: 'Trebuchet MS', 'Lucida Grande', Verdana, Arial, Sans-Serif;
+	font-weight: bold;
+	background:#73a0c5 url('images/kubrickheader.png') no-repeat bottom center;
+}
+
+#wp_main_menu #wp_main_menu_parents {
+	list-style:none;
+	position: relative;
+	z-index: 597;
+}
+
+#wp_main_menu #wp_main_menu_parents li {
+	float:left;
+}
+
+#wp_main_menu #wp_main_menu_parents li:hover {
+	position: relative;
+	 z-index: 599;
+}
+
+#wp_main_menu #wp_main_menu_parents li a {
+	padding:7px 5px;
+	height:21px;
+	color:#FFF;
+	display:block;
+}
+
+#wp_main_menu #wp_main_menu_parents li a:hover {
+	text-decoration:none;
+	background:url(images/kubricklink_hover.png) top left repeat-x;
+}
+
+#wp_main_menu #wp_main_menu_parents .wp_main_menu_sublinks {
+	padding:0;
+	visibility: hidden;
+	position: absolute;
+	top: 100%;
+	left: 0;
+	z-index: 598;
+	width: 100%;
+	min-width:100px;
+	list-style:none;
+	border:1px solid #CCC;
+	background:#4180B6;
+}
+
+#wp_main_menu #wp_main_menu_parents .wp_main_menu_sublinks a { padding:5px; }
+
+#wp_main_menu #wp_main_menu_parents .wp_main_menu_sublinks a:hover { background:#2C577C; }
+
+#wp_main_menu #wp_main_menu_parents .wp_main_menu_sublinks li {
+	float: none;
+}
+
+#wp_main_menu #wp_main_menu_parents .wp_main_menu_sublinks ul{
+	top: 1px;
+	left: 99%;
+}
+
+#wp_main_menu #wp_main_menu_parents li:hover > ul {
+	visibility: visible;
+}
+
+.wp_main_menu_clear { clear:both; }

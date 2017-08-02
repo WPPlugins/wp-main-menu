@@ -1,0 +1,314 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-main-menu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-10 22:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Sumolari <sumolari@gmail.com>\n"
+"Language-Team: Sumolari <sumolari@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED KINGDOM\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu\n"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:376
+msgid "Themes"
+msgstr "Themes"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:377
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1124
+msgid "Export"
+msgstr "Export"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:378
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1157
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1159
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1164
+msgid "Import"
+msgstr "Import"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:379
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1288
+msgid "Uninstall"
+msgstr "Uninstall"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:788
+#, php-format
+msgid "<p>The link has been added successfully, click <a href=\"%s\">here</a> to continue.</p>"
+msgstr "<p>The link has been added successfully, click <a href=\"%s\">here</a> to continue.</p>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:810
+msgid "To show the menu, add this code in your theme:"
+msgstr "To show the menu, add this code in your theme:"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:820
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:833
+msgid "ID"
+msgstr "ID"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:821
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:834
+msgid "Name"
+msgstr "Name"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:823
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:836
+msgid "Status"
+msgstr "Status"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:824
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:837
+msgid "Type"
+msgstr "Type"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:825
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:838
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:967
+msgid "URL"
+msgstr "URL"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:826
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:839
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:901
+msgid "Order"
+msgstr "Order"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:827
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:840
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:906
+msgid "Father"
+msgstr "Father"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:851
+msgid "Edit a link"
+msgstr "Edit a link"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:851
+msgid "Add a link"
+msgstr "Add a link"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:881
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:929
+msgid "Publish"
+msgstr "Publish"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:888
+msgid "Save"
+msgstr "Save"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:888
+msgid "as a"
+msgstr "as a"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:888
+msgid "draft"
+msgstr "draft"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:909
+msgid "None"
+msgstr "None"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:916
+#, php-format
+msgid "Click <a href=\"%s\">here</a> to add a new link instead of edit an old one <br />"
+msgstr "Click <a href=\"%s\">here</a> to add a new link instead of edit an old one <br />"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:929
+msgid "Update"
+msgstr "Update"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:956
+msgid "Link type"
+msgstr "Link type"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:958
+msgid "Select a link type from the list"
+msgstr "Select a link type from the list"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:962
+msgid "Post"
+msgstr "Post"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:963
+msgid "Page"
+msgstr "Page"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:964
+msgid "Category"
+msgstr "Category"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:965
+msgid "Tag"
+msgstr "Tag"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:966
+msgid "User"
+msgstr "User"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:976
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1099
+msgid "Link"
+msgstr "Link"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:978
+msgid "Select an item for the link"
+msgstr "Select an item for the link"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:978
+#, php-format
+msgid "(previously \"%s\" )"
+msgstr "(previously \"%s\" )"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1018
+msgid "English translation by <a href=\"http://sumolari.com\">Sumolari</a>."
+msgstr "English translation by <a href=\"http://sumolari.com\">Sumolari</a>."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1042
+msgid "Draft"
+msgstr "Draft"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1042
+msgid "Published"
+msgstr "Published"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1047
+msgid "to a post"
+msgstr "to a post"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1051
+msgid "to a page"
+msgstr "to a page"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1055
+msgid "to a category"
+msgstr "to a category"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1059
+msgid "to a tag"
+msgstr "to a tag"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1063
+msgid "to an user"
+msgstr "to an user"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1067
+msgid "to an URL"
+msgstr "to an URL"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1085
+msgid "Edit this link"
+msgstr "Edit this link"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1085
+msgid "Edit"
+msgstr "Edit"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1088
+msgid "Delete this link"
+msgstr "Delete this link"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1088
+msgid "You are going to delete"
+msgstr "You are going to delete"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1088
+msgid "Cancel"
+msgstr "Cancel"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1088
+msgid "to stop"
+msgstr "to stop"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1088
+msgid "OK"
+msgstr "OK"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1088
+msgid "to delete."
+msgstr "to delete."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1088
+msgid "Delete"
+msgstr "Delete"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1090
+msgid "View"
+msgstr "View"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1126
+msgid "Copy this code and paste it in the WP Main Menu's import page to backup your config. You can also put this code in a text file and paste it in WP Main Menu's import page later"
+msgstr "Copy this code and paste it in the WP Main Menu's import page to backup your config. You can also put this code in a text file and paste it in WP Main Menu's import page later"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1159
+#, php-format
+msgid "If you have a WP Main Menu's exportation code, copy it in this field and click on \"%s\" "
+msgstr "If you have a WP Main Menu's exportation code, copy it in this field and click on \"%s\" "
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1201
+msgid "Manage Themes"
+msgstr "Manage Themes"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1203
+msgid "Current Theme"
+msgstr "Current Theme"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1205
+msgid "Current theme preview"
+msgstr "Current theme preview"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1206
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1258
+msgid "by"
+msgstr "by"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1206
+msgid "Visit author homepage"
+msgstr "Visit author homepage"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1207
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1259
+#, php-format
+msgid "Version %s"
+msgstr "Version %s"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1208
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1262
+#, php-format
+msgid "<p>All of this theme&#8217;s files are located in <code>%s</code>.</p>"
+msgstr "<p>All of this theme&#8217;s files are located in <code>%s</code>.</p>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1213
+msgid "Available Themes"
+msgstr "Available Themes"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1260
+msgid "Activate"
+msgstr "Activate"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1260
+msgid "Visit theme site"
+msgstr "Visit theme site"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1260
+msgid "Visit author site"
+msgstr "Visit author site"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1289
+#, php-format
+msgid "<p>Are you sure that you want to uninstall WP Main Menu? It will erase all WP Main Menu's data in the DataBase.</p><p>Click <a href=\"%s\">here</a> if you want to delete WP Main Menu's data. After that you must deactivate WP Main Menu and finally, you must delete the folder <strong>%s</strong>.</p><p>If you don't do that steps, you will restart WP Main Menu, but you will not delete it.</p>"
+msgstr "<p>Are you sure that you want to uninstall WP Main Menu? It will erase all WP Main Menu's data in the DataBase.</p><p>Click <a href=\"%s\">here</a> if you want to delete WP Main Menu's data. After that you must deactivate WP Main Menu and finally, you must delete the folder <strong>%s</strong>.</p><p>If you don't do that steps, you will restart WP Main Menu, but you will not delete it.</p>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/themes/default/index.php:9
+msgid "A basic theme for WP Main Menu"
+msgstr "A basic theme for WP Main Menu"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/themes/wpmm-kubrick/index.php:9
+msgid "An excellent theme for Kubrick WordPress's theme"
+msgstr "An excellent theme for Kubrick WordPress's theme"
+
+#~ msgid "Unnistall"
+#~ msgstr "Unnistall"

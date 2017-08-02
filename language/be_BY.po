@@ -1,0 +1,315 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-main-menu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-10 22:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: FatCow <zhr@tut.by>\n"
+"Language-Team: Marcis G. <by.marcis@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Belarusian\n"
+"X-Poedit-Country: BELARUS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu\n"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:376
+msgid "Themes"
+msgstr "Тэмы"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:377
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1124
+msgid "Export"
+msgstr "Экспарт"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:378
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1157
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1159
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1164
+msgid "Import"
+msgstr "Імпарт"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:379
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1288
+msgid "Uninstall"
+msgstr "Дэўсталёўка"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:788
+#, php-format
+msgid "<p>The link has been added successfully, click <a href=\"%s\">here</a> to continue.</p>"
+msgstr "<p>Спасылка была дададзена паспяхова, націсніце кнопку <a href=\"%s\">тут</a> дял працягі.</p>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:810
+msgid "To show the menu, add this code in your theme:"
+msgstr "Для адлюстравання меню, дадайце гэты код у тэму:"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:820
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:833
+msgid "ID"
+msgstr "ID"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:821
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:834
+msgid "Name"
+msgstr "Імя"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:823
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:836
+msgid "Status"
+msgstr "Статут"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:824
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:837
+msgid "Type"
+msgstr "Тып"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:825
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:838
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:967
+msgid "URL"
+msgstr "УРЛ"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:826
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:839
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:901
+msgid "Order"
+msgstr "Парадак"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:827
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:840
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:906
+msgid "Father"
+msgstr "Тата"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:851
+msgid "Edit a link"
+msgstr "Рэдагаваць спасылку"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:851
+msgid "Add a link"
+msgstr "Дадаць спасылку"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:881
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:929
+msgid "Publish"
+msgstr "Апублікаваць"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:888
+msgid "Save"
+msgstr "Захаваць"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:888
+msgid "as a"
+msgstr "як "
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:888
+msgid "draft"
+msgstr "чарнавік"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:909
+msgid "None"
+msgstr "Не"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:916
+#, php-format
+msgid "Click <a href=\"%s\">here</a> to add a new link instead of edit an old one <br />"
+msgstr "Націсніце <a href=\"%s\">тут</a> для дадання новай спасылкі, а не праўкі старой<br />"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:929
+msgid "Update"
+msgstr "Абнавіць"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:956
+msgid "Link type"
+msgstr "Тып спасылкі"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:958
+msgid "Select a link type from the list"
+msgstr "Абярыце тып спасылкі са спісу"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:962
+msgid "Post"
+msgstr "Пост"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:963
+msgid "Page"
+msgstr "Старонка"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:964
+msgid "Category"
+msgstr "Катэгорыя"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:965
+msgid "Tag"
+msgstr "Тэг"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:966
+msgid "User"
+msgstr "Карыстач"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:976
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1099
+msgid "Link"
+msgstr "Спасылка"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:978
+msgid "Select an item for the link"
+msgstr "Абярыце пункт для спасылкі"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:978
+#, php-format
+msgid "(previously \"%s\" )"
+msgstr "(прад. \"%s\" )"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1018
+msgid "English translation by <a href=\"http://sumolari.com\">Sumolari</a>."
+msgstr "Belorussian translation by <a href=\"http://pc.de\">Marcis G.</a>."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1042
+msgid "Draft"
+msgstr "Чарнавік"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1042
+msgid "Published"
+msgstr "Апублікавана"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1047
+msgid "to a post"
+msgstr "для паста"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1051
+msgid "to a page"
+msgstr "для старонкі"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1055
+msgid "to a category"
+msgstr "для катэгорыі"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1059
+msgid "to a tag"
+msgstr "для тэга"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1063
+msgid "to an user"
+msgstr "для карыстача"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1067
+msgid "to an URL"
+msgstr "для Урла"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1085
+msgid "Edit this link"
+msgstr "Рэдагаваць гэту спасылку"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1085
+msgid "Edit"
+msgstr "Рэдагаваць"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1088
+msgid "Delete this link"
+msgstr "Выдаліць гэту спасылку"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1088
+msgid "You are going to delete"
+msgstr "Вы збіраецеся выдаліць"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1088
+msgid "Cancel"
+msgstr "Адмена"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1088
+msgid "to stop"
+msgstr "для прыпынку"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1088
+msgid "OK"
+msgstr "OK"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1088
+msgid "to delete."
+msgstr "для выдалення."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1088
+msgid "Delete"
+msgstr "Выдаліць"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1090
+msgid "View"
+msgstr "Прагляд"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1126
+msgid "Copy this code and paste it in the WP Main Menu's import page to backup your config. You can also put this code in a text file and paste it in WP Main Menu's import page later"
+msgstr "Скапіюйце гэты код і ўстаўце яго ў старонку WP галоўнага меню, зрабіце рэзервовую копію канфігурацыі. Вы таксама можаце змясціць гэты код у тэкставы файл і ўставіць яго ў старонку WP галоўнага меню пазней"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1159
+#, php-format
+msgid "If you have a WP Main Menu's exportation code, copy it in this field and click on \"%s\" "
+msgstr "Калі ў вас ёсць код экспарт WP галоўнага меню, скапіюйце яго ў гэтай вобласці і націсніце кнопку \"%s\" "
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1201
+msgid "Manage Themes"
+msgstr "Кіраванне тэмамі"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1203
+msgid "Current Theme"
+msgstr "Бягучая тэма"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1205
+msgid "Current theme preview"
+msgstr "Прагляд бягучай тэмы"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1206
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1258
+msgid "by"
+msgstr "ад "
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1206
+msgid "Visit author homepage"
+msgstr "Наведаць хатнюю старонку аўтара"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1207
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1259
+#, php-format
+msgid "Version %s"
+msgstr "Версія %s"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1208
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1262
+#, php-format
+msgid "<p>All of this theme&#8217;s files are located in <code>%s</code>.</p>"
+msgstr "<p>Усе файлы гэтай тэме размешчаны ў <code>%s</code>.</p>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1213
+msgid "Available Themes"
+msgstr "Даступныя тэмы"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1260
+msgid "Activate"
+msgstr "Актывацыя"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1260
+msgid "Visit theme site"
+msgstr "Наведаць сайт тэмы"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1260
+msgid "Visit author site"
+msgstr "Наведаць сайт аўтара"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/wp-main-menu.php:1289
+#, php-format
+msgid "<p>Are you sure that you want to uninstall WP Main Menu? It will erase all WP Main Menu's data in the DataBase.</p><p>Click <a href=\"%s\">here</a> if you want to delete WP Main Menu's data. After that you must deactivate WP Main Menu and finally, you must delete the folder <strong>%s</strong>.</p><p>If you don't do that steps, you will restart WP Main Menu, but you will not delete it.</p>"
+msgstr "<p>Вы ўпэўнены, што вы жадаеце выдаліць WP галоўным меню? Ён сатрэ ўсе дадзеныя WP галоўнага меню, у базе дадзеных.</p><p>Націсніце <a href=\"%s\">here</a>калі вы жадаеце выдаліць дадзеныя WP галоўнага меню. Пасля гэтага вы павінны адключыць WP галоўным меню і ўрэшце, вы павінны выдаліць тэчку<strong>%s</strong>.</p><p>Калі вы гэтага не зробіце, што крокі, вы створыце перазагрузіць WP галоўнае меню, але вы не выдаліце яго.</p>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/themes/default/index.php:9
+msgid "A basic theme for WP Main Menu"
+msgstr "Асноўная тэма для WP Галоўнага Меню"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-main-menu/themes/wpmm-kubrick/index.php:9
+msgid "An excellent theme for Kubrick WordPress's theme"
+msgstr "Выдатная тэма для WordPress тэмы Kubrick "
+
+#~ msgid "Unnistall"
+#~ msgstr "Unnistall"
